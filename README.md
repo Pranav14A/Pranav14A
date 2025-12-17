@@ -21,7 +21,7 @@ I have strong interests in **AI-driven systems, interactive simulations, and ful
 
 **Web & UI**
 
-* React.js | Tailwind CSS | UI/UX Principles | React Router
+* React.js | Tailwind CSS | UI/UX Principles 
 
 **AI / ML**
 
