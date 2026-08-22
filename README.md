@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranav Raj Wardhan
 
-🚀 **Pre-final Year CSE Student | AI • IoT • Unity • Frontend Development**
+🚀 **Final Year CSE Student | AI • IoT • Unity • Frontend Development**
 🎓 Techno India University, West Bengal (2022–2026)
 
 ---
